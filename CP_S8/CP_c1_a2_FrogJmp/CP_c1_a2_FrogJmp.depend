@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1552747258 source:e:\codeblocks projects\cp_c1_a2_frogjmp\main.cpp
+	<iostream>
+	<cmath>
+

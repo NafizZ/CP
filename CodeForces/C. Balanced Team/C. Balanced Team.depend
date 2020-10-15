@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1593434269 source:e:\codeblocks projects\codeforces\c. balanced team\main.cpp
+	<bits/stdc++.h>
+	<bits/stdc++.h>
+	<cstdio>
+	<iostream>
+	<algorithm>
+	<cstring>
+
