@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1553228661 source:e:\codeblocks projects\cp_class_3\main.cpp
+	<iostream>
+	<cmath>
+	<stack>
+

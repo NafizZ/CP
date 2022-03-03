@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1552799258 source:e:\codeblocks projects\cp_c1_a1_tapeequilibrium\main.cpp
+	<iostream>
+	<vector>
+	<cstdlib>
+

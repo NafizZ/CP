@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1552624852 source:e:\codeblocks projects\cp_class2\main.cpp
+	<iostream>
+	<set>
+
